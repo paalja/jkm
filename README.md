@@ -1,2 +1,2 @@
-# jkm
-measure environment at jk&amp;m
+# Jæren korn & malt
+measure environment at Jæren korn & malt
