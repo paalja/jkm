@@ -60,3 +60,5 @@ ESP8266 (Lolin D1 Mini - https://www.aliexpress.com/item/32529101036.html?spm=a2
 
 * DHT22 Sensor
 * ESPHome Software
+
+http://cactusprojects.com/esp8266-logging-to-influxdb/
