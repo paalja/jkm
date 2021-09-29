@@ -54,6 +54,7 @@ python3 -m pip install influxdb
 
 ```
 
+### Notes
 
 ESP8266 (Lolin D1 Mini - https://www.aliexpress.com/item/32529101036.html?spm=a2g0o.productlist.0.0.569d25ceHzKUd8&algo_pvid=8910803e-937f-40a5-bae4-925ebbcc8df1&algo_exp_id=8910803e-937f-40a5-bae4-925ebbcc8df1-0 )
 
